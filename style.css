@@ -1,0 +1,103 @@
+body {
+    background-image: linear-gradient(to right, #7F0B0B, #7A0B0B);
+}
+
+.bm {
+    height: 100px;
+    width: 1500px;
+    background-color: #7C0B0B;
+    border-radius: 32px;
+    box-shadow: -3px 0px 7px 01px rgba(214, 81, 81, 0.3), 3px 4px 4px 0px rgba(0, 0, 0, 0.3);
+    margin: 20px 0px 0px 200px;
+    position: absolute;
+    display: flex;
+
+
+}
+
+* {
+    font-family: "Outfit", sans-serif;
+}
+
+.btnhldr {
+    height: 85px;
+    width: 140px;
+    background-color: #4D0707;
+    margin: 8px 10px 15px 8px;
+    position: relative;
+    border-radius: 24px;
+
+
+}
+
+.lghldr {
+    position: relative;
+}
+
+.lg {
+    padding: 0px 850px 30px 30px;
+    font-size: 24px;
+    color: rgb(216, 216, 216);
+    text-shadow: -3px 0px 7px 01px rgba(214, 81, 81, 0.3) inset;
+
+
+
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 30px;
+    padding: 25px 0px 0px 45px;
+    opacity: 0.7;
+    text-shadow: -3px 0px 7px 01px black;
+
+}
+
+.one {
+    height: 300px;
+    width: 1500px;
+    color: white;
+    margin: 20px 0px 0px 200px;
+    
+}
+.hero{
+    height: 600px;
+    width: 1500px;
+    border-radius:32px ;
+    margin: 100px 0px 0px 00px;
+    background-color: #121212 ;
+    box-shadow: -3px 0px 14px 10px rgba(214, 81, 81, 0.3), 3px 4px 4px 0px rgba(0, 0, 0, 0.3);
+    background-image: url(ehh.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.hdg{
+    font-family: "Orbitron", sans-serif;
+    font-size: 80px;
+    padding: 250px 0px 0px 110px;
+}
+
+.contact{
+    height: 600px;
+    width: 1500px;
+    border-radius:32px ;
+    margin: 50px 0px 0px 00px;
+    background-color: #121212 ;
+    box-shadow: -3px 0px 14px 10px rgba(214, 81, 81, 0.3), 3px 4px 4px 0px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+#myVideo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+    z-index: 0;
+    border-radius:32px ;
+  }
+  .form{
+    height: 500px;
+    width: 500px;
+    background-color: #4D0707;
+  }
